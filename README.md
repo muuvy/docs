@@ -1,11 +1,15 @@
 # muuvy docs
-repo for docs related to muuvy db
+
+repo for docs related to muuvy
 
 ## clickable prototype
-https://marvelapp.com/8hibb2g
+
+[Marvel App](https://marvelapp.com/8hibb2g)
 
 ## credits
-https://thenounproject.com/term/cow/630231/
-https://v.vaadin.com/lumo-ui-kit-for-sketch
+
+Icon from [The Noun Project](https://thenounproject.com/term/cow/630231/)
+
+[Vaadin Lumo Kit](https://v.vaadin.com/lumo-ui-kit-for-sketch)
 
 :cow:
