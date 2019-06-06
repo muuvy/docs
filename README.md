@@ -1,6 +1,8 @@
 # muuvy docs
 
-repo for docs related to muuvy
+Repo for docs related to muuvy
+
+View the [WIKI](https://github.com/muuvy/docs/wiki) for a detailed report and guide to this app.
 
 ## clickable prototype
 
